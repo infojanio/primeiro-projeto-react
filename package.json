@@ -4,7 +4,7 @@
   "description": "Template repository for creating React apps using Typescript",
   "private": true,
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "polished": "^3.6.5",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
